@@ -8,7 +8,7 @@
 ## 📝 Descrizione Breve
 Un generatore di livelli procedurali basato su griglia. L'algoritmo non si limita a creare la mappa istantaneamente, ma visualizza il processo di costruzione in tempo reale ("Runtime Visualization") utilizzando un sistema di iterazione basato su Timer, simulando un effetto "costruzione animata".
 
-
+![MapGenerator](https://github.com/user-attachments/assets/9ad13ee3-41b3-446f-be43-8badcba87252)
 
 ## 🌟 Key Features
 
